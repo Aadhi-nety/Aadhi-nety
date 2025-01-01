@@ -30,7 +30,7 @@
   AWS, Kubernetes, Python, CI/CD, DevOps Tools (Terraform, Docker, Jenkins).
 
 - 📫 **Reach Me At:**
-  ragulraja@example.com
+  aadhithyam8@gmail.com
 
 - 📄 **Know My Journey:**
   [**Resume**](#)
