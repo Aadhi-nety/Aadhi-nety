@@ -2,7 +2,16 @@
 <h3 align="center">Cloud Computing Enthusiast | AI Advocate | DevOps Practitioner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CFFD&background=000000EE&center=true&width=600&lines=Building+Scalable+Cloud+Applications;Driving+Automation+with+DevOps;Empowering+Innovation+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=800&size=26&duration=1200&pause=500&color=FFD700&background=000000FF&center=true&vCenter=true&width=800&lines=🚀+Revolutionizing+Cloud+Solutions+with+Innovation;🤖+Harnessing+Automation+to+Scale+New+Heights;🌟+Unleashing+AI+to+Drive+Next-Gen+Breakthroughs;⚡+Crafting+Solutions+that+Redefine+Possibility!" alt="Creative Typing SVG" />
+
+
+
+
+
+
+
+
+
 </div>
 
 ---
@@ -30,16 +39,15 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/ragulraja" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/ragulraja" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://github.com/ragulraja" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/aadhithya-manikandan-805164287/target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://github.com/Aadhi-nety" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 </p>
+
 
 ---
 
@@ -84,20 +92,10 @@
   <a href="#project-2">
     <img src="https://img.shields.io/badge/MultiCloud-Dashboard-%23FF9900.svg?style=for-the-badge" alt="MultiCloud Dashboard" />
   </a>
-  <a href="#project-3">
-    <img src="https://img.shields.io/badge/Save-to-theCloud-%232496ED.svg?style=for-the-badge" alt="Save to the Cloud" />
-  </a>
-</div>
+  
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RagulRaja&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RagulRaja&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
----
 
 <p align="center">✨ Empowering innovation through scalable cloud and AI solutions. Always building, always growing! ✨</p>
