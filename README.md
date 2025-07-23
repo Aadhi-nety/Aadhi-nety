@@ -32,6 +32,11 @@
 - 📫 **Reach Me At:**
   aadhithyam8@gmail.com
 
+## 📦 Open Source Contributions
+
+- 🔧 [Enhanced <Caption> style in Gutenberg Editor – WordPress](https://github.com/Aadhi-nety/gutenberg/pull/1)
+  - Improved visual UI for Quote block's citation field with better styling and accessibility.
+
 - 📄 **Know My Journey:**
   [**Resume**](#)
 
